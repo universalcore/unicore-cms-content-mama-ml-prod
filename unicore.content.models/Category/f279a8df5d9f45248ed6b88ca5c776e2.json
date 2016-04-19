@@ -1,0 +1,20 @@
+{
+  "subtitle": "What is BabyCenter?", 
+  "uuid": "f279a8df5d9f45248ed6b88ca5c776e2", 
+  "language": "fre_FR", 
+  "title": "\u00c0 propos de BabyCenter", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "propos-de-babycenter", 
+  "source": "f441978177e24509b8018c8a69b5589b", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
